@@ -3,7 +3,7 @@ from turtle import *
 def starSpiral(length=10):
     speed(0)
     shape('turtle')
-    for i in range(0, 60):
+    for i in range(0, 150):
         for x in range(0, 5):
             forward(length)
             right(144)

@@ -1,7 +1,7 @@
 from turtle import *
 
 def polygon(sides):
-    speed(2)
+    speed(0)
     shape('turtle')
     for x in range(sides):
         forward(100)
